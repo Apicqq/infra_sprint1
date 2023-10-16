@@ -1,0 +1,5 @@
+IP: 158.160.27.207;
+name_taski: https://practicum.fun/;
+name_kittygram: https://kittygram-practikum.hopto.org/;
+login: su;
+password: su;
